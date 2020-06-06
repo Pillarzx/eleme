@@ -4,13 +4,13 @@
 
 主界面主要分为三个功能：1登陆  2.注册(只能是普通用户)  3.退出
 
-​                               ![1](C:\Users\zhang\Desktop\images\1.png)
+​                               ![1](../images/1.png)
 
 1.1 登陆功能
 
 实现登陆功能,即用户需要输入用户名及密码，验证是否成功，如果用户名错误会提示”用户名错误”,如果登陆成功，会根据返回值进入店家界面、普通用户界面
 
- ![2](C:\Users\zhang\Desktop\images\2.png)
+ ![2](https://github.com/Pillarzx/eleme/blob/master/images/2.png)
 
  
 
