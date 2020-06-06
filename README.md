@@ -4,33 +4,33 @@
 
 主界面主要分为三个功能：1登陆  2.注册(只能是普通用户)  3.退出
 
-​                               ![1](C:\Users\zhang\Desktop\测试\1.png)
+​                               ![1](C:\Users\zhang\Desktop\images\1.png)
 
 1.1 登陆功能
 
 实现登陆功能,即用户需要输入用户名及密码，验证是否成功，如果用户名错误会提示”用户名错误”,如果登陆成功，会根据返回值进入店家界面、普通用户界面
 
- ![2](C:\Users\zhang\Desktop\测试\2.png)
+ ![2](C:\Users\zhang\Desktop\images\2.png)
 
  
 
- ![3](C:\Users\zhang\Desktop\测试\3.png)
+ ![3](C:\Users\zhang\Desktop\images\3.png)
 
-![4](C:\Users\zhang\Desktop\测试\4.png)
+![4](C:\Users\zhang\Desktop\images\4.png)
 
 1.2 用户注册
 
 实现对用户的添加，即用户需要输入用户名字、密码、电话，用户名不能与已有用户名重复、密码必须是8-16位、电话号必须是11位，否则提示错误信息
 
- ![5](C:\Users\zhang\Desktop\测试\5.png)
+ ![5](C:\Users\zhang\Desktop\images\5.png)
 
  
 
- ![6](C:\Users\zhang\Desktop\测试\6.png)
+ ![6](C:\Users\zhang\Desktop\images\6.png)
 
- ![7](C:\Users\zhang\Desktop\测试\7.png)
+ ![7](C:\Users\zhang\Desktop\images\7.png)
 
-![8](C:\Users\zhang\Desktop\测试\8.png)
+![8](C:\Users\zhang\Desktop\images\8.png)
 
 1.3 退出系统
 
@@ -40,13 +40,13 @@
 
 店家登陆成功后：实现对菜品及订单的信息维护，查看菜品信息、录入菜品、修改菜品、查询顾客订单、删除菜品、配送菜品等功能
 
- ![9](C:\Users\zhang\Desktop\测试\9.png)
+ ![9](C:\Users\zhang\Desktop\images\9.png)
 
 2.1 查看菜单
 
 显示当前店面所有的菜品信息
 
- ![10](C:\Users\zhang\Desktop\测试\10.png)
+ ![10](C:\Users\zhang\Desktop\images\10.png)
 
 
 
@@ -54,15 +54,15 @@
 
 实现对菜品的录入，即输入菜品名字、单价，菜品名字不能与已有菜品重复
 
- ![11](C:\Users\zhang\Desktop\测试\11.png)
+ ![11](C:\Users\zhang\Desktop\images\11.png)
 
 2.3 修改菜品
 
 实现对当前所有菜品是否处理热销或是下架状态的修改
 
- ![12](C:\Users\zhang\Desktop\测试\12.png)
+ ![12](C:\Users\zhang\Desktop\images\12.png)
 
- ![13](C:\Users\zhang\Desktop\测试\13.png)
+ ![13](C:\Users\zhang\Desktop\images\13.png)
 
  
 
@@ -72,23 +72,23 @@
 
 店家可以查看当前所有的订单信息
 
- ![14](C:\Users\zhang\Desktop\测试\14.png)
+ ![14](C:\Users\zhang\Desktop\images\14.png)
 
 2.5 删除菜品
 
 实现对菜品删除,即店家需要输入菜品编号，编号正确方可删除
 
- ![15](C:\Users\zhang\Desktop\测试\15.png)
+ ![15](C:\Users\zhang\Desktop\images\15.png)
 
- ![16](C:\Users\zhang\Desktop\测试\16.png)
+ ![16](C:\Users\zhang\Desktop\images\16.png)
 
 2.6 配送菜品
 
 实现配送用户已点的菜品，即显示待处理订单信息(订单未完成)，修改订单的状态
 
- ![17](C:\Users\zhang\Desktop\测试\17.png)
+ ![17](C:\Users\zhang\Desktop\images\17.png)
 
- ![18](C:\Users\zhang\Desktop\测试\18.png)
+ ![18](C:\Users\zhang\Desktop\images\18.png)
 
 2.7 返回上一级
 
@@ -98,57 +98,57 @@
 
 实现普通用户对菜品及订单信息的维护，即查看菜品信息、订餐、查看订单（当前用户订单）、签收订单（已配送中）、取消订单（未配送）、点赞、充值。返回上一级等功能
 
- ![19](C:\Users\zhang\Desktop\测试\19.png)
+ ![19](C:\Users\zhang\Desktop\images\19.png)
 
 3.1 查看菜品信息
 
 显示当前店面所有的菜品信息
 
- ![20](C:\Users\zhang\Desktop\测试\20.png)
+ ![20](C:\Users\zhang\Desktop\images\20.png)
 
 3.2 订餐
 
 实现订餐功能，即用户在热销菜品中选择要购买的菜品编号、数量、如果用户卡内余额大于菜品总价，则购买成功，否则购买失败。
 
- ![21](C:\Users\zhang\Desktop\测试\21.png)
+ ![21](C:\Users\zhang\Desktop\images\21.png)
 
- ![22](C:\Users\zhang\Desktop\测试\22.png)
+ ![22](C:\Users\zhang\Desktop\images\22.png)
 
 3.3 查看订单
 
 实现查看自己的订单
 
- ![23](C:\Users\zhang\Desktop\测试\23.png)
+ ![23](C:\Users\zhang\Desktop\images\23.png)
 
 3.4 签收订单
 
 实现订单签收功能，只能签收配送中的订单
 
- ![24](C:\Users\zhang\Desktop\测试\24.png)
+ ![24](C:\Users\zhang\Desktop\images\24.png)
 
- ![25](C:\Users\zhang\Desktop\测试\25.png)
+ ![25](C:\Users\zhang\Desktop\images\25.png)
 
 3.5 取消订单
 
 实现订单取消功能，只能取消为配送的订单
 
- ![26](C:\Users\zhang\Desktop\测试\26.png)
+ ![26](C:\Users\zhang\Desktop\images\26.png)
 
 3.6 点赞
 
 实现对菜品的点赞功能，每次只能点赞一次
 
- ![27](C:\Users\zhang\Desktop\测试\27.png)
+ ![27](C:\Users\zhang\Desktop\images\27.png)
 
- ![28](C:\Users\zhang\Desktop\测试\28.png)
+ ![28](C:\Users\zhang\Desktop\images\28.png)
 
 3.7 充值
 
 实现用户充值功能，但是只能输入20、50、100，否则充值失败
 
- ![29](C:\Users\zhang\Desktop\测试\29.png)
+ ![29](C:\Users\zhang\Desktop\images\29.png)
 
- ![30](C:\Users\zhang\Desktop\测试\30.png)
+ ![30](C:\Users\zhang\Desktop\images\30.png)
 
 3.8 返回上一级
 
