@@ -110,10 +110,6 @@
 
 实现订餐功能，即用户在热销菜品中选择要购买的菜品编号、数量、如果用户卡内余额大于菜品总价，则购买成功，否则购买失败。
 
- ![21](https://github.com/Pillarzx/eleme/blob/master/images/21.png)
-
- ![22](https://github.com/Pillarzx/eleme/blob/master/images/22.png)
-
 3.3 查看订单
 
 实现查看自己的订单
